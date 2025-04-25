@@ -8,6 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-gthbaction
   LOCATION: Southafricanorth
   TEMPLATE-FILE: infra/webapp.bicep
+  TENANT-ID: ebe02def-4be9-499d-960b-e8aa81ced748
   SUBSCRIPTION-ID: 4a58df90-b328-422d-ad69-164fb325e09b
   WEBAPP-NAME: gthbactionwebapp
 
